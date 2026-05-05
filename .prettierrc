@@ -1,0 +1,11 @@
+{
+  "bracketSpacing": true,
+  "objectWrap": "preserve",
+  "printWidth": 80,
+  "quoteProps": "as-needed",
+  "semi": true,
+  "singleQuote": false,
+  "trailingComma": "all",
+  "tabWidth": 2,
+  "useTabs": false
+}
