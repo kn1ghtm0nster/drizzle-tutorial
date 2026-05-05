@@ -5,7 +5,7 @@
   },
   "devDependencies": {
     "@types/pg": "^8.20.0",
-    "drizzle-kit": "^0.18.1",
+    "drizzle-kit": "^0.31.10",
     "prettier": "3.8.3",
     "tsx": "^4.21.0"
   }
